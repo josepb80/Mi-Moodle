@@ -35,3 +35,9 @@
 ![Captura de pantalla de 2025-03-14 14-30-52](https://github.com/user-attachments/assets/8df7e362-05bf-48ae-be05-5e2c55743cd0)
 
 # 4
+## A
+![Captura de pantalla de 2025-03-14 14-34-37](https://github.com/user-attachments/assets/2562d8f1-162f-4272-a681-0db2b6c08642)
+![imatge](https://github.com/user-attachments/assets/b2952295-9ccd-4b0a-82b3-7d38bab37818)
+
+## B
+![imatge](https://github.com/user-attachments/assets/95c5fdbd-b2f1-4fb8-aa48-aa19c80f7a25)
