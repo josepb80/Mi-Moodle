@@ -41,3 +41,13 @@
 
 ## B
 ![imatge](https://github.com/user-attachments/assets/95c5fdbd-b2f1-4fb8-aa48-aa19c80f7a25)
+![imatge](https://github.com/user-attachments/assets/d860cd5f-e5ee-4274-b1f4-f029cf396742)
+![imatge](https://github.com/user-attachments/assets/8e72d775-220b-4911-a289-cb89b02308e7)
+![imatge](https://github.com/user-attachments/assets/5273ac89-a68c-4f14-9178-82a618b51aa5)
+![imatge](https://github.com/user-attachments/assets/70d20b42-a88d-4004-84d6-8e965292340d)
+
+## C
+![imatge](https://github.com/user-attachments/assets/21fe14d1-b428-4f99-92dc-45552c071568)
+![imatge](https://github.com/user-attachments/assets/a3d12b05-a95e-4792-9296-6c5b73714cfd)
+
+# 5
