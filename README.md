@@ -48,4 +48,10 @@
 ![imatge](https://github.com/user-attachments/assets/a3d12b05-a95e-4792-9296-6c5b73714cfd)
 
 # 5
+## A
+![imatge](https://github.com/user-attachments/assets/36df1fe4-41ce-4e65-8000-73c67760dc46)
+![imatge](https://github.com/user-attachments/assets/d7918ef6-6214-495e-af4b-a7736dc8f514)
+
+## B
+![imatge](https://github.com/user-attachments/assets/f4a7e4c1-0a7c-4d44-81f9-efac43aa0c04)
 
