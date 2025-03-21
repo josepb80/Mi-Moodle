@@ -55,3 +55,9 @@
 ## B
 ![imatge](https://github.com/user-attachments/assets/f4a7e4c1-0a7c-4d44-81f9-efac43aa0c04)
 
+## C
+![imatge](https://github.com/user-attachments/assets/561a37de-3d14-4586-97e1-34c90f213aff)
+![imatge](https://github.com/user-attachments/assets/0843f0e7-9c0b-4ca0-a767-5d8cc37ce049)
+
+# 6
+
