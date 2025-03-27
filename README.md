@@ -102,3 +102,14 @@ Entra amb un alumne i comprova que pots lliurar la tasca.
 ![imatge](https://github.com/user-attachments/assets/6facf2c4-0ba7-4e63-91c6-c3599b5504cf)
 ![imatge](https://github.com/user-attachments/assets/afc16072-1664-4d9f-a8ee-56ecdf18e516)
 
+## Continguts
+
+![imatge](https://github.com/user-attachments/assets/c6c4f64f-2a9c-4dff-ab14-98549a1c4f48)
+![imatge](https://github.com/user-attachments/assets/661bba37-1df0-4412-a942-f165bba76187)
+
+![imatge](https://github.com/user-attachments/assets/069547e7-30e2-41b8-a829-451c4ee709a5)
+
+![imatge](https://github.com/user-attachments/assets/6e832e87-a530-487c-ae6b-61d53d57bcb5)
+![imatge](https://github.com/user-attachments/assets/55fee627-244e-4622-97af-7790731df029)
+
+## Qualificació
