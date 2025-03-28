@@ -113,3 +113,26 @@ Entra amb un alumne i comprova que pots lliurar la tasca.
 ![imatge](https://github.com/user-attachments/assets/55fee627-244e-4622-97af-7790731df029)
 
 ## Qualificació
+
+![imatge](https://github.com/user-attachments/assets/8ec5721d-28b6-445d-b5b0-dedf1328ae4e)
+![imatge](https://github.com/user-attachments/assets/402453ef-d20a-41f2-999d-a74478514d64)
+
+![imatge](https://github.com/user-attachments/assets/72e9ccd2-0b6e-4ce6-a0ed-dde79eede828)
+![imatge](https://github.com/user-attachments/assets/6a3f90e6-f99c-41d7-aa5b-78996b5ee929)
+
+
+## Qüestionaris
+
+![imatge](https://github.com/user-attachments/assets/aa74430a-8d40-4919-a530-4f174fea02e9)
+![imatge](https://github.com/user-attachments/assets/35079399-a01d-425d-a03d-9ded9cbb6978)
+![imatge](https://github.com/user-attachments/assets/9eff289b-00ca-4f48-a09f-9807e110eeb3)
+
+![imatge](https://github.com/user-attachments/assets/a92045d3-32e8-42fb-9a9a-7100028639de)
+![imatge](https://github.com/user-attachments/assets/b13c25e4-d91a-4ed1-b52a-ea111c2c87a1)
+
+## Importar i exportar un curs
+
+![imatge](https://github.com/user-attachments/assets/e9837d04-e0fa-442c-8bb0-b0fcbee8eded)
+
+## Personalització
+
