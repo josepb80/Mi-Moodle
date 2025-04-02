@@ -129,10 +129,3 @@ Entra amb un alumne i comprova que pots lliurar la tasca.
 
 ![imatge](https://github.com/user-attachments/assets/a92045d3-32e8-42fb-9a9a-7100028639de)
 ![imatge](https://github.com/user-attachments/assets/b13c25e4-d91a-4ed1-b52a-ea111c2c87a1)
-
-## Importar i exportar un curs
-
-![imatge](https://github.com/user-attachments/assets/e9837d04-e0fa-442c-8bb0-b0fcbee8eded)
-
-## Personalització
-
