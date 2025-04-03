@@ -103,6 +103,9 @@ Entra amb un alumne i comprova que pots lliurar la tasca.
 ![imatge](https://github.com/user-attachments/assets/afc16072-1664-4d9f-a8ee-56ecdf18e516)
 
 ## Continguts
+En el curs A crea una UF amb 2 NF dintre. En aquesta UF crea diverses activitats.
+
+Fes servir el moodle del puig com a referència. Han d’haver tant activitats magistrals com evaluables (com a mínim una entrega i un questionari). Clona (importa) el curs sencer al curs B `Administració del Curs > Importar` (des del curs B)
 
 ![imatge](https://github.com/user-attachments/assets/c6c4f64f-2a9c-4dff-ab14-98549a1c4f48)
 ![imatge](https://github.com/user-attachments/assets/661bba37-1df0-4412-a942-f165bba76187)
@@ -113,6 +116,9 @@ Entra amb un alumne i comprova que pots lliurar la tasca.
 ![imatge](https://github.com/user-attachments/assets/55fee627-244e-4622-97af-7790731df029)
 
 ## Qualificació
+En el curs A fes que un alumne completi totes les tasques evaluables (entrant amb la seva compta). Calificales amb el professor i configura el calificador per a que doni una nota de la UF automàticament a `Administració del Curs > Configuració de qualificacions`.
+
+Crea una insignia i atorga-la a aquest alumne des de `Administració del Lloc > Insígnies`
 
 ![imatge](https://github.com/user-attachments/assets/8ec5721d-28b6-445d-b5b0-dedf1328ae4e)
 ![imatge](https://github.com/user-attachments/assets/402453ef-d20a-41f2-999d-a74478514d64)
@@ -120,8 +126,8 @@ Entra amb un alumne i comprova que pots lliurar la tasca.
 ![imatge](https://github.com/user-attachments/assets/72e9ccd2-0b6e-4ce6-a0ed-dde79eede828)
 ![imatge](https://github.com/user-attachments/assets/6a3f90e6-f99c-41d7-aa5b-78996b5ee929)
 
-
 ## Qüestionaris
+Crea un qüestionari i afegeix preguntes del banc de preguntes. Crea diferents categories dintre del banc de preguntes i diverses preguntes en cada categoria. A l'hora de crear el qüestionari has de seleccionar les preguntes del banc de preguntes. Respon les preguntes del qüestionari amb un usuari estudiant i mira les qualificacions amb l'usuari professor.
 
 ![imatge](https://github.com/user-attachments/assets/aa74430a-8d40-4919-a530-4f174fea02e9)
 ![imatge](https://github.com/user-attachments/assets/35079399-a01d-425d-a03d-9ded9cbb6978)
@@ -129,3 +135,16 @@ Entra amb un alumne i comprova que pots lliurar la tasca.
 
 ![imatge](https://github.com/user-attachments/assets/a92045d3-32e8-42fb-9a9a-7100028639de)
 ![imatge](https://github.com/user-attachments/assets/b13c25e4-d91a-4ed1-b52a-ea111c2c87a1)
+
+## Importar i exportar un curs
+Entra a la zona `Administració > Cursos > Còpies` i fes una còpia de seguretat del teu curs. Després envia aquest fitxer a un company i que l'importi al seu moodle. Has d'importar al teu moodle un altre curs d'un company. 
+
+![image](https://github.com/user-attachments/assets/8b387331-917a-4801-b4b6-5978385908dc)
+
+## Seguretat
+Ara banejo a una IP qualsevol i canvío la politica de seguretat.
+
+![image](https://github.com/user-attachments/assets/21935f49-df9f-440a-a256-2684fadcd035)
+
+He activat el de la imatge obligatoria.
+![image](https://github.com/user-attachments/assets/b364517a-5aa4-4eb7-9f89-48097bd4a6c5)
